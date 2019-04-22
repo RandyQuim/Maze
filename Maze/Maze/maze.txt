@@ -1,0 +1,7 @@
+2 3
+The Start,-,+,red_key,-,axe blue_key
+The Banding,-,+,-,+,
+Laster Bedroom,-,-,-,+,red_key
+The Kitchen,red_key,+,-,-,
+The Hall,-,+,-,+,
+The Exit!,-,+,-,+,
